@@ -1,0 +1,7 @@
+admin
+administrator
+help
+helpdesk
+root
+sys
+system
